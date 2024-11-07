@@ -1,0 +1,9 @@
+.botao {
+    background-color: var(--azul);
+    color: white;
+  }
+  
+  .botao:hover {
+    background-color: var(--azul-claro);
+    color: var(--azul);
+  }
